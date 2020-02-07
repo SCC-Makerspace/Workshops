@@ -1,5 +1,5 @@
-## [Web (Live)](https://docs.google.com/document/d/e/2PACX-1vSVx65EfJU_R_rL2DanbPvOpTeh4ULcclRy4Ln65Gy2mAQMvrzPnk9Oski-vk5ixMhlwocKH0cwknzx/pub)
+## [Web (Live)](https://docs.google.com/document/d/e/2PACX-1vQfYZuCXTEwNsDOaYrq-g1x5kAUrDRNUY_jfPdI9PYi93uvSzsoLpoS4JaB9LCf47XfapjSLOgmPzqt/pub)
 
-## [Docs (Live)](https://docs.google.com/document/d/1bjklJh2B2vbJ5RgK0cO8n81p9XomHTGIvVkwe_Kc4GA/edit?usp=sharing)
+## [Docs (Live)](https://docs.google.com/document/d/1MCmfaWYDu8hdp4fqEpdlRMS6ctJLasRnzsLAXCc9wt4/edit?usp=sharing)
 
-## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Workshops/blob/master/Electronics/A-02%20Basic%20Soldering/A-02%20Basic%20Soldering.pdf)
+## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Workshops/blob/master/Electronics/A-07%20Basic%20Op%20Amps/A-07%20Basic%20Op%20Amps.pdf)
