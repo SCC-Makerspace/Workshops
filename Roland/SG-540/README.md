@@ -1,5 +1,3 @@
-## [Web (Live)]()
+## [Docs (Live)](https://drive.google.com/file/d/18Anz3T_-jGRwYaE41cvPpod9IgZ3b61e/view?usp=sharing)
 
-## [Docs (Live)]()
-
-## [PDF (Snapshot)]()
+## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Workshops/blob/master/Roland/SG-540/Roland%20Training%20Manual.pdf)
