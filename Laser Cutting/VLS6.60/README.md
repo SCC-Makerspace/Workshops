@@ -3,3 +3,5 @@
 ## [Docs (Live)](https://docs.google.com/document/d/1WuWvEZDzweEaCKzr4lGQL1zLuEujfT-gSkPbsQbrnWQ/edit?usp=sharing)
 
 ## [PDF (Snapshot)](https://github.com/SCC-Makerspace/Workshops/blob/master/Laser%20Cutting/VLS6.60/Universal%20Laser%20Training%20Sequence%20Documentation.pdf)
+
+## [Video Tutorial](https://www.youtube.com/watch?v=1W6RZW1g8G0)
